@@ -1,0 +1,21 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 5px solid  #778899;
+  text-align: left;
+  padding: 8px;
+}
+body {
+	font-family: 'Permanent Marker', cursive;
+}
+table {
+	font-family: 'Permanent Marker', cursive;
+}
+body {
+	background-color: #D3D3D3;
+	color: #000000;
+}

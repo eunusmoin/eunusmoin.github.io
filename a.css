@@ -1,0 +1,17 @@
+body {
+	font-family: 'Caveat', cursive;
+
+	background-color: #F5DEB3;
+}
+
+table {
+ font-family: 'Luckiest Guy', cursive;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 5px solid  #778899;
+  text-align: left;
+  padding: 8px;
+}
